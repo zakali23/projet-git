@@ -1,13 +1,15 @@
 body{
   background: #ffeaa7;
+  width: 100%;
+  margin: 0;
 }
 h1{
-  width: 100vh;
-  padding-top: 40vh;
+  width: 100%;
+  padding-top: 30vh;
   font-size:8vh;
   text-align: center;
 }
 p{
   font-size: 7vh;
-  text-align: left;
+  text-align: center;
 }
