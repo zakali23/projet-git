@@ -1,9 +1,13 @@
-html, body{
-  background-color: #ffeaa7;
-
+body{
+  background: #ffeaa7;
 }
 h1{
+  width: 100vh;
   padding-top: 40vh;
-  font-size:18vh;
+  font-size:8vh;
   text-align: center;
+}
+p{
+  font-size: 7vh;
+  text-align: left;
 }
